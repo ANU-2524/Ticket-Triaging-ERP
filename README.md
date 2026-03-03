@@ -52,7 +52,7 @@ The app opens at **http://localhost:8501**
 
 1. Paste your Groq API key in the **sidebar**
 2. Type or paste any ERP support ticket in the input box
-3. Click **"⚡ Analyze & Triage Ticket"**
+3. Click **"Analyze & Triage Ticket"**
 4. See full triage results instantly
 
 ---
